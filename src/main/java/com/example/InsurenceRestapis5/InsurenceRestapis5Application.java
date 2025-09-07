@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class InsurenceRestapis5Application {
 
 	public static void main(String[] args) {
-
         SpringApplication.run(InsurenceRestapis5Application.class, args);
 	}
 
